@@ -1,4 +1,4 @@
-# vuepress-theme-default-rtl
+# vuepress-theme-default-uyghur
 
 > ✏️ Uyghur language supported version for VuePress default theme.
 
