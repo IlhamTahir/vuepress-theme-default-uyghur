@@ -30,7 +30,11 @@
 </script>
 
 <style lang="stylus">
-    @font-face
-        font-family GanjNamehSans
-        src url('../fonts/GanjNamehSans-Regular.woff2') format('woff2'), url('../fonts/GanjNamehSans-Regular.woff') format('woff'), url('../fonts/GanjNamehSans-Regular.ttf') format('truetype')
+@font-face
+  font-family 'UKIJ Tuz Tom'
+  src url('../fonts/UKIJTuT.eot')
+  src url('../fonts/UKIJTuT.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/UKIJTuT.woff2') format('woff2'),
+  url('../fonts/UKIJTuT.woff') format('woff'),
+  url('../fonts/UKIJTuT.ttf')  format('truetype');
 </style>
