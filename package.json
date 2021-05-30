@@ -1,7 +1,7 @@
 {
   "name": "vuepress-theme-default-rtl",
-  "version": "1.0.1",
-  "description": "RTL version for VuePress default theme v1.4.0",
+  "version": "1.0.0",
+  "description": "Uyghur language supported version for VuePress default theme v1.4.0",
   "keywords": [
     "vue",
     "vuepress",
@@ -9,19 +9,18 @@
     "vuepress-theme",
     "rtl",
     "right to left",
-    "persian",
-    "arabic"
+    "uyghur"
   ],
-  "homepage": "https://github.com/alizadeh118/vuepress-theme-default-rtl.git#readme",
+  "homepage": "https://github.com/IlhamTahir/vuepress-theme-default-uyghur.git#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alizadeh118/vuepress-theme-default-rtl.git"
+    "url": "git+https://github.com/IlhamTahir/vuepress-theme-default-uyghur.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Hassan Alizadeh",
-    "url": "https://alizadeh118.ir/",
-    "email": "alizadeh118@gmail.com"
+    "name": "Ilham Tahir",
+    "url": "https://www.ilhamtahir.com/",
+    "email": "yantaq@bilig.biz"
   },
   "main": "index.js",
   "dependencies": {
