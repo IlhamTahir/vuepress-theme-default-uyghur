@@ -36,5 +36,8 @@
   },
   "peerDependencies": {
     "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "test": "scripts/test"
   }
 }
