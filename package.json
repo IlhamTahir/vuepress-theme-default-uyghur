@@ -38,6 +38,6 @@
     "vuepress": "^1.4.0"
   },
   "scripts": {
-    "test": "scripts/test"
+    "test": "echo 'this is a test'"
   }
 }
